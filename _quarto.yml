@@ -7,6 +7,14 @@ website:
     contents: responsi-md/*
 
 
+  navbar:
+    right: 
+      - icon: github
+        href: https://github.com/carlesoctav/alin-1-asdos
+      - icon: twitter
+        href: https://twitter.com/carlesoctav
+
+
 
 format:
   html:
