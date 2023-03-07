@@ -4,7 +4,11 @@ project:
 website:
   title: "Responsi Alin-1 2023"
   sidebar:
-    contents: responsi-md/*
+    - text: Responsi
+      contents: responsi-md/*
+    - text: dokumen-lainnya
+      contents:
+        - Alin-Kuis-1-PG-2022.pdf
 
 
   navbar:
@@ -14,6 +18,11 @@ website:
       - icon: twitter
         href: https://twitter.com/carlesoctav
 
+
+
+  comments:
+    giscus:
+      repo: carlesoctav/alin-1-asdos
 
 
 format:
