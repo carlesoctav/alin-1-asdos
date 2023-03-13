@@ -106,4 +106,4 @@ juga linear independen di $V$ berdasarkan kriteria kebebaslinearan.
     \end{align*}
     $$
 
-    Persamaan diatas mudah kita selesaikan \[ditinggalkan sebagai latihan\], dan kita akan punya $t= 4\alpha + 5\beta=2 \quad\Box$
+    Persamaan diatas mudah kita selesaikan \[ditinggalkan sebagai latihan\], dan kita akan punya $t= 4\alpha + 5\beta=2 \quad$
