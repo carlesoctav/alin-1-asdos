@@ -23,6 +23,7 @@ website:
   comments:
     giscus:
       repo: carlesoctav/alin-1-asdos
+      category: Q&A
 
 
 format:
