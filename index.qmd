@@ -1,10 +1,11 @@
 # Main
 
-## Timeline
+## Timeline kelas B
 - [x] Responsi-01: 27-feb-2023 : [Presensi](https://forms.gle/S9TKK1LZwEQvq1PC8)
-- [x] Responsi-02: 14-mar-2023: [Presensi](https://www.ristek.link/presensi-sains-data-02)
+- [x] Responsi-02: 14-mar-2023: [Presensi](image.png)
 - [ ] Responsi-03: IDK: [Presensi]()
 - [ ] Responsi-04: IDK: [Presensi]()
 - [ ] Responsi-05: IDK: [Presensi]()
 - [ ] Responsi-06: IDK: [Presensi]()
 - [ ] Responsi-07: IDK: [Presensi]()
+

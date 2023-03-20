@@ -32,7 +32,8 @@ $$ A=\left[\begin{array}{rrr}
 1 & -1 & 3 \\
 5 & -4 & -4 \\
 7 & -6 & 2
-\end{array}\right]$$
+\end{array}\right]
+$$
 
 ## Jawaban
 ![bagian1](resp-2-p/36745.jpg)
@@ -40,3 +41,8 @@ $$ A=\left[\begin{array}{rrr}
 ![bagian2](resp-2-p/36744.jpg)
 
 ![bagian3](resp-2-p/36743.jpg)
+
+
+![bagian4](resp-2-p/20230320191324.png)
+
+![bagian5](resp-2-p/20230320193716.png)
