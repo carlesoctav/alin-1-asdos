@@ -8,3 +8,4 @@ Kamis 16, 9.00
 Jumat 17, 10.30
 
 
+[database radian](https://drive.google.com/drive/folders/1_vu6yXoB2PT-t5_shWloUAirxYRb86li)
