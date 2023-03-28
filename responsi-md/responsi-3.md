@@ -47,3 +47,15 @@ $$
 -  Tunjukkan bahwa 
    - $A$ terdiagonalkan jika $(a-d)^2+4 b c>0$.
    - $A$ tidak terdiagonalkan jika $(a-d)^2+4 b c<0$.
+
+## Jawaban (Tapi Coretan)
+
+![Alt text](resp-3-p/no-1.jpeg)
+
+![Alt text](resp-3-p/no.2.jpeg)
+
+![Alt text](resp-3-p/no.3.jpeg)
+
+![Alt text](resp-3-p/no-5.jpeg)
+
+![Alt text](resp-3-p/no-6.jpeg)
